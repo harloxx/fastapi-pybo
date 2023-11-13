@@ -1,0 +1,12 @@
+.idea
+myapi.db
+*.pyc
+__pycache__
+migrations/versions/*
+Lib/*
+Scripts/*
+node_modules/*
+Include/*
+package-lock.json
+package.json
+pyvenv.cfg
