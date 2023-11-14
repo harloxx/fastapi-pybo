@@ -15,5 +15,6 @@
 <ul>
   {#each question_list as question}
     <li>{question.subject}</li>
+    <li>hi</li>
   {/each}
 </ul>
