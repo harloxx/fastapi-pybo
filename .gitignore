@@ -10,3 +10,4 @@ Include/*
 package-lock.json
 package.json
 pyvenv.cfg
+.env
